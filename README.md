@@ -2,6 +2,10 @@
 
 A metamodern macOS menu bar app that displays statistics of your clipboard content, copies them to the clipboard, and acts as a separator between other menu bar items thanks to its lack of an icon.
 
+## Screenshot
+
+![app_screenshot.png]()
+
 ## Installation
 
 Download the latest `Clipper.dmg` from [Releases](https://github.com/dimitrygrebenyuk/clipper/releases) and drag Clipper.app to your Applications folder.
