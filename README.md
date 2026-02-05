@@ -4,7 +4,7 @@ A metamodern macOS menu bar app that displays statistics of your clipboard conte
 
 ## Screenshot
 
-![Screenshot](app_screenshot.png)
+![Screenshot](screenshot.png)
 
 ## Installation
 
