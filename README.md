@@ -6,6 +6,11 @@ A metamodern macOS menu bar app that displays statistics of your clipboard conte
 
 Download the latest `Clipper.dmg` from [Releases](https://github.com/dimitrygrebenyuk/clipper/releases) and drag Clipper.app to your Applications folder.
 
+```bash
+# Remove macOS quarantine flag
+xattr -dr com.apple.quarantine /Applications/Clipper.app
+```
+
 ### Building from Source
 
 ```bash
